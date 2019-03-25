@@ -1,0 +1,7 @@
+.Calculate-button {
+    -fx-font: 20px "Arial";
+    -fx-text-fill: red;
+    -fx-padding: 10px;
+    -fx-pref-height: 10px;
+    -fx-pref-width: 200px;
+}
